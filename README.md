@@ -1,2 +1,9 @@
-# OpenGL-TRON
-Jogo estilo tron em c++ utilizando OpenGL 
+Description
+============== 
+Jogo estilo tron em c++ utilizando OpenGL.
+
+
+Requeriments
+============== 
+- C/C++ compilator
+- OpenGL libraries
